@@ -4,6 +4,6 @@ Foi feito um formulário dinâmico com HTML, CSS e Javascript.
 
 Para cada resposta dada pelo usuário, o javascript manipula o DOM e entrega a próxima pergunta com base na resposta anterior.
 
-Não é um formulário muito complexo, porém a parte de manipulação do DOM deu um certo trabalho.
+No final da última pergunta foi chamado uma função que dispara um alert na tela com o endereço da DNC.
 
-Espero que curtam esse mini projeto.
+Não é um formulário muito complexo, porém a parte de manipulação do DOM deu um certo trabalho.
